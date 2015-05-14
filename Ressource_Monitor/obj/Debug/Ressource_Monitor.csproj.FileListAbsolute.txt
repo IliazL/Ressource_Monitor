@@ -1,0 +1,6 @@
+E:\delta\Ressource_Monitor\Ressource_Monitor\bin\Debug\Ressource_Monitor.exe.config
+E:\delta\Ressource_Monitor\Ressource_Monitor\bin\Debug\Ressource_Monitor.exe
+E:\delta\Ressource_Monitor\Ressource_Monitor\bin\Debug\Ressource_Monitor.pdb
+E:\delta\Ressource_Monitor\Ressource_Monitor\obj\Debug\Ressource_Monitor.csprojResolveAssemblyReference.cache
+E:\delta\Ressource_Monitor\Ressource_Monitor\obj\Debug\Ressource_Monitor.exe
+E:\delta\Ressource_Monitor\Ressource_Monitor\obj\Debug\Ressource_Monitor.pdb
